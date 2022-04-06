@@ -6,7 +6,7 @@
 <marquee>
        <FONT COLOR="#660000" size="20">Zooming In....Zooming Out Image....</FONT>
 </marquee>
-<img src="https://www.gimp-forum.net/attachment.php?aid=3820.jpeg" name="slide" height=600 width=675 border=5>
+<img src="https://www.gimp-forum.net/attachment.php?aid=3819" name="slide" height=600 width=675 border=5>
 <Script>
 var i=300;
 var j=50;
